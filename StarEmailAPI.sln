@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StarEmailAPI", "StarEmailAPI\StarEmailAPI.csproj", "{86C5D497-9322-4633-9836-C64F7AB955EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86C5D497-9322-4633-9836-C64F7AB955EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86C5D497-9322-4633-9836-C64F7AB955EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86C5D497-9322-4633-9836-C64F7AB955EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86C5D497-9322-4633-9836-C64F7AB955EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE0F00F1-D9D7-4FD4-A034-790376BE1FDC}
+	EndGlobalSection
+EndGlobal
