@@ -38,29 +38,5 @@ namespace StarEmailAPI.Models
 		public int Tries { get; set; }
 		public string Exception { get; set; }
 
-		//public Email(string _emailto, long _emailid, string _emailfrom, string _subject, string _body, bool _sent, bool _read, bool _delete, DateTime _maildate, int _importance, int _status, string _mailcc, string _mailbcc, int _replytype, long _refemailid, DateTime _logdatetime, DateTime _dispatched, string _bodyformat, DateTime _delivered, int _tries, string _exception)
-		//{
-		//	this.EmailTo = _emailto;
-		//	this.EmailId = _emailid;
-		//	this.EmailFrom = _emailfrom;
-		//	this.Subject = _subject;
-		//	this.Body = _body;
-		//	this.Sent = _sent;
-		//	this.Read = _read;
-		//	this.Delete = _delete;
-		//	this.MailDate = _maildate;
-		//	this.Importance = _importance;
-		//	this.Status = _status;
-		//	this.MailCC = _mailcc;
-		//	this.MailBCC = _mailbcc;
-		//	this.ReplyType = _replytype;
-		//	this.RefemailId = _refemailid;
-		//	this.LogDateTime = _logdatetime;
-		//	this.Dispatched = _dispatched;
-		//	this.BodyFormat = _bodyformat;
-		//	this.Delivered = _delivered;
-		//	this.Tries = _tries;
-		//	this.Exception = _exception;
-		//}
 	}
 }
